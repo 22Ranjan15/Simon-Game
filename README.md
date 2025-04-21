@@ -2,6 +2,8 @@
 
 A web-based implementation of the classic Simon memory game. Test your memory skills by following the sequence of colors!
 
+**Play the Game Online:** [Simon Game](https://22ranjan15.github.io/Simon-Game/)
+
 ## How to Play
 
 1.  **Start the Game:** Press the **Spacebar** on your keyboard or click the virtual "Space" button on the screen to begin.
